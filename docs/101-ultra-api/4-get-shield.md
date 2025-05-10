@@ -42,7 +42,7 @@ The shield response will return a list of token information and warnings of mint
 ```json
 {
   "warnings": {
-    "DocTwz3QhCgKy1CJJMruEAFEG5xTGoC43vPMkC41pump": [
+    "test": [
       {
         "type": "NOT_VERIFIED",
         "message": "This token is not verified, make sure the mint address is correct before trading",
